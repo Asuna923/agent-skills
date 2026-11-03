@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phone ADB Control"
+  short_description: "Inspect and operate authorized Android devices through ADB"
+  default_prompt: "Use $phone-adb-control to inspect my authorized Android device."
