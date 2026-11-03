@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.png
+*.xml
+.env
+.env.*
+!*.example
+runtime/
+test-output/
